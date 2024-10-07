@@ -8,3 +8,13 @@ F:\All C#\s1113327_hw1\s1113327_hw1\obj\Debug\s1113327_hw1.csproj.CoreCompileInp
 F:\All C#\s1113327_hw1\s1113327_hw1\obj\Debug\s1113327_hw1.exe
 F:\All C#\s1113327_hw1\s1113327_hw1\obj\Debug\s1113327_hw1.pdb
 F:\All C#\s1113327_hw1\s1113327_hw1\obj\Debug\s1113327_hw1.s1113327.resources
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\bin\Debug\s1113327_hw1.exe.config
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\bin\Debug\s1113327_hw1.exe
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\bin\Debug\s1113327_hw1.pdb
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\obj\Debug\s1113327_hw1.csproj.AssemblyReference.cache
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\obj\Debug\s1113327_hw1.s1113327.resources
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\obj\Debug\s1113327_hw1.Properties.Resources.resources
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\obj\Debug\s1113327_hw1.csproj.GenerateResource.cache
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\obj\Debug\s1113327_hw1.csproj.CoreCompileInputs.cache
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\obj\Debug\s1113327_hw1.exe
+C:\Users\guanj\git repos\Ligit-Game\s1113327_hw1\obj\Debug\s1113327_hw1.pdb
